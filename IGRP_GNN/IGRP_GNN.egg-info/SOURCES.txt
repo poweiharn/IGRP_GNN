@@ -1,6 +1,0 @@
-setup.py
-IGRP_GNN.egg-info/PKG-INFO
-IGRP_GNN.egg-info/SOURCES.txt
-IGRP_GNN.egg-info/dependency_links.txt
-IGRP_GNN.egg-info/requires.txt
-IGRP_GNN.egg-info/top_level.txt
