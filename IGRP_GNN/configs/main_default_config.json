@@ -1,0 +1,64 @@
+{
+    "args_mode": "default",
+    "no_cuda": false,
+    "gpu": 0,
+    "fastmode": false,
+    "seed": 42,
+    "data": "cora",
+    "wiki_split_index": 0,
+    "lr": 0.01,
+    "weight_decay": 0.0005,
+    "hidden": 16,
+    "dropout": 0.5,
+    "weight_pruning_threshold": 0.1,
+    "experiment": "singleshot",
+    "pre_epochs": 100,
+    "post_epochs": 100,
+    "pruner": "igrp_high_order",
+    "prune_epochs": 1,
+    "top_k_adj": 1,
+    "top_k_weight": 1,
+    "top_k_bias": 10,
+    "connectivity_order": 1,
+    "prune_batchnorm": false,
+    "prune_residual": false,
+    "compression_schedule": "exponential",
+    "compression": 1.0,
+    "separate_compression": false,
+    "compression_weight": 0,
+    "compression_adj": 0,
+    "compression_bias": 0,
+    "prune_weight": false,
+    "prune_bias": false,
+    "prune_adj": false,
+    "compression_list": [
+        0.5,
+        1.0,
+        1.5,
+        2.0,
+        2.5,
+        3.0,
+        3.5,
+        4.0,
+        4.5,
+        5.0
+    ],
+    "compression_list_weight": [
+        0.5,
+        1.0
+    ],
+    "compression_list_adj": [
+        0.5,
+        1.0
+    ],
+    "compression_list_bias": [
+        0.5,
+        1.0
+    ],
+    "level_list": [
+        1,
+        2,
+        3
+    ],
+    "result_dir": "results/"
+}
