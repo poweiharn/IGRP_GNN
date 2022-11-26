@@ -18,9 +18,15 @@ graph and GNNs, respectively.
 CORA, CITESEER, PUBMED, WIKI-CS, OGBN-ARXIV, OGBN-PRODUCTS
 
 ## Experiments
+
 Singleton Graph and Weight Lottery Ticket Identification
+
 Adjacency Matrix and Weight Pruning
+
 Unified Graph Lottery Ticket Identification
+
 Multi-shot Iterations
+
 Score Order Selection
+
 Gradient Rank Selection
