@@ -14,7 +14,7 @@ In this paper, we propose an Iterative Gradient Rank Pruning (IGRP) algorithm to
 An illustration of the Multi-shot Iterative Gradient Rank Pruning (IGRP) Framework. Dash/solid lines denote the removed/remaining edges and weights in the
 graph and GNNs, respectively.
 
-#### Datasets
+## Datasets
 CORA, CITESEER, PUBMED, WIKI-CS, OGBN-ARXIV, OGBN-PRODUCTS
 
 ## Experiments
