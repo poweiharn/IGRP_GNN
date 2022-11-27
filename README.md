@@ -15,7 +15,7 @@ An illustration of the Multi-shot Iterative Gradient Rank Pruning (IGRP) Framewo
 graph and GNNs, respectively.
 
 ## Datasets
-CORA, CITESEER, PUBMED, WIKI-CS, OGBN-ARXIV, OGBN-PRODUCTS
+Cora, Citeseer, PubMed, Wiki-CS, OGBN-arXiv, OGBN-Products
 
 ## Experiments
 
